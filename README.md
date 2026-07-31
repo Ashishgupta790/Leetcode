@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 ## Array
@@ -23,9 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
