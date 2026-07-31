@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
