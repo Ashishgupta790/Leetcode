@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -36,8 +37,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
