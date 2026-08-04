@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Ashishgupta790/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Ashishgupta790/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ashishgupta790/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Ashishgupta790/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ashishgupta790/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Ashishgupta790/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
