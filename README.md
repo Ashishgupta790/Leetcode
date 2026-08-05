@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Ashishgupta790/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Ashishgupta790/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ashishgupta790/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ashishgupta790/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
@@ -66,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashishgupta790/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashishgupta790/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
