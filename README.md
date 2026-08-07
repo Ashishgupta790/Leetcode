@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Ashishgupta790/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Ashishgupta790/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/Ashishgupta790/Leetcode/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashishgupta790/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Ashishgupta790/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +145,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ashishgupta790/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ashishgupta790/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Ashishgupta790/Leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ashishgupta790/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
