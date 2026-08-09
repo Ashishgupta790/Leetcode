@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1025-divisor-game) |
+| [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishgupta790/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ashishgupta790/Leetcode/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
