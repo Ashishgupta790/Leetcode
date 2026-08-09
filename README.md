@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashishgupta790/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishgupta790/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/Ashishgupta790/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ashishgupta790/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishgupta790/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/Ashishgupta790/Leetcode/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
