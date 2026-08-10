@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1025-divisor-game) |
 | [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishgupta790/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashishgupta790/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishgupta790/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashishgupta790/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ashishgupta790/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
