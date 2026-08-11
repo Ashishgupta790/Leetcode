@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishgupta790/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ashishgupta790/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ashishgupta790/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Ashishgupta790/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ashishgupta790/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Ashishgupta790/Leetcode/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashishgupta790/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ashishgupta790/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Ashishgupta790/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Ashishgupta790/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
