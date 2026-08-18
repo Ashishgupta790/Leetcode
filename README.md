@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/Ashishgupta790/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ashishgupta790/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ashishgupta790/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
