@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1025-divisor-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashishgupta790/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/Ashishgupta790/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Ashishgupta790/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ashishgupta790/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ashishgupta790/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ashishgupta790/Leetcode/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Ashishgupta790/Leetcode/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ashishgupta790/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
