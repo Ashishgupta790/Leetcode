@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Ashishgupta790/Leetcode/tree/master/0832-flipping-an-image) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishgupta790/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashishgupta790/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashishgupta790/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ashishgupta790/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashishgupta790/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ashishgupta790/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Ashishgupta790/Leetcode/tree/master/0125-valid-palindrome) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashishgupta790/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-sum-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1927-sum-game) |
 | [3794-reverse-string-prefix](https://github.com/Ashishgupta790/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashishgupta790/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
