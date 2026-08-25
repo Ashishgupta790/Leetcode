@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ashishgupta790/Leetcode/tree/master/0143-reorder-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Ashishgupta790/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Database
 |  |
 | ------- |
@@ -257,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1927-sum-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashishgupta790/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Ashishgupta790/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
