@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Ashishgupta790/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/Ashishgupta790/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1683-invalid-tweets](https://github.com/Ashishgupta790/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Ashishgupta790/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Ashishgupta790/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashishgupta790/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
