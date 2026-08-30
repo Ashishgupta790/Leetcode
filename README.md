@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Ashishgupta790/Leetcode/tree/master/0175-combine-two-tables) |
 | [0596-classes-with-at-least-5-students](https://github.com/Ashishgupta790/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0627-swap-sex-of-employees](https://github.com/Ashishgupta790/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1683-invalid-tweets](https://github.com/Ashishgupta790/Leetcode/tree/master/1683-invalid-tweets) |
