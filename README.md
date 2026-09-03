@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashishgupta790/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ashishgupta790/Leetcode/tree/master/3731-find-missing-elements) |
 | [3895-count-digit-appearances](https://github.com/Ashishgupta790/Leetcode/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ashishgupta790/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ashishgupta790/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Ashishgupta790/Leetcode/tree/master/0832-flipping-an-image) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ashishgupta790/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Number Theory
 |  |
 | ------- |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashishgupta790/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Ashishgupta790/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
