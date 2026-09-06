@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashishgupta790/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Ashishgupta790/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ashishgupta790/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ashishgupta790/Leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashishgupta790/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ashishgupta790/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Ashishgupta790/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashishgupta790/Leetcode/tree/master/0125-valid-palindrome) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ashishgupta790/Leetcode/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishgupta790/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1927-sum-game) |
