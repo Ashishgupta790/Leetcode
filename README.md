@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ashishgupta790/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashishgupta790/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3871-count-commas-in-range-ii](https://github.com/Ashishgupta790/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3895-count-digit-appearances](https://github.com/Ashishgupta790/Leetcode/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/Ashishgupta790/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Array
