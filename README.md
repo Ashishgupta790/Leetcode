@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Ashishgupta790/Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Ashishgupta790/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Ashishgupta790/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ashishgupta790/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ashishgupta790/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashishgupta790/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Ashishgupta790/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashishgupta790/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
