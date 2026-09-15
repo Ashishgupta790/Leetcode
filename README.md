@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Ashishgupta790/Leetcode/tree/master/0832-flipping-an-image) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Ashishgupta790/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashishgupta790/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1854-maximum-population-year](https://github.com/Ashishgupta790/Leetcode/tree/master/1854-maximum-population-year) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Ashishgupta790/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ashishgupta790/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ashishgupta790/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ashishgupta790/Leetcode/tree/master/0169-majority-element) |
+| [1854-maximum-population-year](https://github.com/Ashishgupta790/Leetcode/tree/master/1854-maximum-population-year) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Ashishgupta790/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashishgupta790/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashishgupta790/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1854-maximum-population-year](https://github.com/Ashishgupta790/Leetcode/tree/master/1854-maximum-population-year) |
 | [2485-find-the-pivot-integer](https://github.com/Ashishgupta790/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Stack
 |  |
