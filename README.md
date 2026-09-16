@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1927-sum-game) |
 | [3110-score-of-a-string](https://github.com/Ashishgupta790/Leetcode/tree/master/3110-score-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/Ashishgupta790/Leetcode/tree/master/3280-convert-date-to-binary) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Ashishgupta790/Leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3794-reverse-string-prefix](https://github.com/Ashishgupta790/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashishgupta790/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ashishgupta790/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/Ashishgupta790/Leetcode/tree/master/1927-sum-game) |
+| [3675-minimum-operations-to-transform-string](https://github.com/Ashishgupta790/Leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 ## Design
 |  |
 | ------- |
